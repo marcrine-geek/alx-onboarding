@@ -1,0 +1,5 @@
+Program that reads three numbers and writes them all in sorted order
+Let the number be 321
+Let y be the array of the number 321
+y.sort()
+print y

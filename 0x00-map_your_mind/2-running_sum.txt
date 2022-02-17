@@ -1,0 +1,12 @@
+This is a program where there is a running sum, then the user enters numbers that will be added to the sum. And when a negative number is encountered stop the program and print the output.
+Let x be equal to 5
+Let y be equal to 10
+Sum of x and y be equal to z
+A is the users input
+B is sum of z and A
+if (A > 0){
+	user inputs another number
+}else{
+	B= z + A
+	return B
+}

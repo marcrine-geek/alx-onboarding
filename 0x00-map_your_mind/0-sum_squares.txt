@@ -1,0 +1,8 @@
+Program to calculate the sum of squares of given input numbers
+Let input be x = 6
+Calculate the square of x where answer is equal to y
+Change integer y to an array of integers that will be z
+Find sum of z
+Print the sum of z
+
+
